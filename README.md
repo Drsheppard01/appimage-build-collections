@@ -6,3 +6,4 @@ I have compiled what I believe to be the best build recipes that meet mainly the
 2. Project doesn't use repackaging method
 
 1. [nvtop](https://github.com/Samueru-sama/nvtop/blob/master/AppImage/make_appimage.sh) script was written by @Samueru-sama and you can see how it's simple download deps -> build app -> download tool for building appimages -> build appimage
+2. [cemu](https://github.com/cemu-project/Cemu/blob/main/dist/linux/appimage.sh) written by @qurious-pixel
